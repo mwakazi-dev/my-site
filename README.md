@@ -122,7 +122,6 @@ Update your social media links in:
 Replace placeholder URLs with your actual profiles:
 - GitHub
 - LinkedIn
-- Twitter
 - Email
 
 ## 🚢 Deployment
@@ -189,9 +188,9 @@ This is a personal portfolio, but feel free to fork and customize for your own u
 
 ## 📧 Contact
 
-- **Email:** johnson.mwakazi@example.com
-- **GitHub:** [@johnsonmwakazi](https://github.com/johnsonmwakazi)
-- **LinkedIn:** [Johnson Mwakazi](https://linkedin.com/in/johnsonmwakazi)
+- **Email:** johnsonmwakazi31@gmail.com
+- **GitHub:** [@mwakazi-dev](https://github.com/mwakazi-dev)
+- **LinkedIn:** [Johnson Mwakazi](https://www.linkedin.com/in/johnson-mwakazi/)
 
 ## 📄 License
 

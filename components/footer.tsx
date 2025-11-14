@@ -1,17 +1,16 @@
 "use client";
 
 import { motion } from "framer-motion";
-import { Heart, Github, Linkedin, Mail, Twitter } from "lucide-react";
+import { Heart, Github, Linkedin, Mail } from "lucide-react";
 import Link from "next/link";
 
 export function Footer() {
   const currentYear = new Date().getFullYear();
 
   const socialLinks = [
-    { icon: Github, href: "https://github.com/johnsonmwakazi", label: "GitHub" },
-    { icon: Linkedin, href: "https://linkedin.com/in/johnsonmwakazi", label: "LinkedIn" },
-    { icon: Twitter, href: "https://twitter.com/johnsonmwakazi", label: "Twitter" },
-    { icon: Mail, href: "mailto:johnson.mwakazi@example.com", label: "Email" },
+    { icon: Github, href: "https://github.com/mwakazi-dev", label: "GitHub" },
+    { icon: Linkedin, href: "https://www.linkedin.com/in/johnson-mwakazi/", label: "LinkedIn" },
+    { icon: Mail, href: "mailto:johnsonmwakazi31@gmail.com", label: "Email" },
   ];
 
   const navLinks = [
@@ -88,10 +87,10 @@ export function Footer() {
             <ul className="space-y-2 text-gray-400">
               <li>
                 <a
-                  href="mailto:johnson.mwakazi@example.com"
+                  href="mailto:johnsonmwakazi31@gmail.com"
                   className="hover:text-white transition-colors"
                 >
-                  johnson.mwakazi@example.com
+                  johnsonmwakazi31@gmail.com
                 </a>
               </li>
               <li>Nairobi, Kenya</li>

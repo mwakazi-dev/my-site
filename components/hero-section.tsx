@@ -83,7 +83,7 @@ export function HeroSection() {
 
             <div className="flex items-center gap-4">
               <motion.a
-                href="https://github.com/johnsonmwakazi"
+                href="https://github.com/mwakazi-dev"
                 target="_blank"
                 rel="noopener noreferrer"
                 whileHover={{ scale: 1.1 }}
@@ -93,7 +93,7 @@ export function HeroSection() {
                 <Github className="w-5 h-5 text-white" />
               </motion.a>
               <motion.a
-                href="https://linkedin.com/in/johnsonmwakazi"
+                href="https://www.linkedin.com/in/johnson-mwakazi/"
                 target="_blank"
                 rel="noopener noreferrer"
                 whileHover={{ scale: 1.1 }}
@@ -103,7 +103,7 @@ export function HeroSection() {
                 <Linkedin className="w-5 h-5 text-white" />
               </motion.a>
               <motion.a
-                href="mailto:johnson@example.com"
+                href="mailto:johnsonmwakazi31@gmail.com"
                 whileHover={{ scale: 1.1 }}
                 whileTap={{ scale: 0.95 }}
                 className="p-3 rounded-full bg-white/5 border border-white/10 hover:bg-white/10 transition-colors"

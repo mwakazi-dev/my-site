@@ -93,10 +93,10 @@ export function ContactSection() {
                 <div>
                   <h4 className="text-white font-semibold mb-1">Email</h4>
                   <a
-                    href="mailto:johnson.mwakazi@example.com"
+                    href="mailto:johnsonmwakazi31@gmail.com"
                     className="text-gray-400 hover:text-blue-400 transition-colors"
                   >
-                    johnson.mwakazi@example.com
+                    johnsonmwakazi31@gmail.com
                   </a>
                 </div>
               </motion.div>
@@ -119,9 +119,8 @@ export function ContactSection() {
               <h4 className="text-white font-semibold mb-4">Follow Me</h4>
               <div className="flex gap-4">
                 {[
-                  { name: "GitHub", url: "https://github.com/johnsonmwakazi" },
-                  { name: "LinkedIn", url: "https://linkedin.com/in/johnsonmwakazi" },
-                  { name: "Twitter", url: "https://twitter.com/johnsonmwakazi" },
+                  { name: "GitHub", url: "https://github.com/mwakazi-dev" },
+                  { name: "LinkedIn", url: "https://www.linkedin.com/in/johnson-mwakazi/" },
                 ].map((social) => (
                   <motion.a
                     key={social.name}
