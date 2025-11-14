@@ -1,7 +1,7 @@
 "use client";
 
 import { motion } from "framer-motion";
-import { Heart, Github, Linkedin, Mail } from "lucide-react";
+import { Github, Linkedin, Mail } from "lucide-react";
 import Link from "next/link";
 
 export function Footer() {
@@ -111,11 +111,6 @@ export function Footer() {
         >
           <p className="text-gray-400 text-sm text-center md:text-left">
             © {currentYear} Johnson Mwakazi. All rights reserved.
-          </p>
-          <p className="text-gray-400 text-sm flex items-center gap-2">
-            Built with
-            <Heart className="w-4 h-4 text-red-500 fill-red-500 animate-pulse" />
-            using Next.js, Tailwind CSS & Framer Motion
           </p>
         </motion.div>
       </div>
